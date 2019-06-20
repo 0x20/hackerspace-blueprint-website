@@ -6,7 +6,7 @@ layout: default
 
 The Hackerspace Blueprint is a living document which explains how our community works. This document is the result of more than five years of testing and improving our do-ocracy to get the best out of people. It's a system with minimal overhead and minimal control, designed to **give power to the people who do stuff**.
 
-We've been using this system for more than five years, tweaking and improving it when we encounter issues. Interested? Click the buttons on the right to download the PDF and EPUB versions of this booklet!
+We've been using this system for more than five years, tweaking and improving it when we encounter issues. Interested? [Download the PDF](https://github.com/0x20/hackerspace-blueprint/releases/latest/download/hackerspace-blueprint.pdf) or [epub](https://github.com/0x20/hackerspace-blueprint/releases/latest/download/hackerspace-blueprint.epub) version to read it.
 
 # Who are you?
 
