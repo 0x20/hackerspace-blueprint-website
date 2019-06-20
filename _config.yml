@@ -1,6 +1,11 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
+title: The Hackerspace Blueprint
+description: A guide on how to run a hackerspace
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
 basename: /hackerspace-blueprint-website
+github:
+  epub_url: https://github.com/0x20/hackerspace-blueprint/releases/latest/download/hackerspace-blueprint.epub
+  pdf_url: https://github.com/0x20/hackerspace-blueprint/releases/latest/download/hackerspace-blueprint.pdf
+  is_project_page: True
+  repository_url: https://github.com/0x20/hackerspace-blueprint

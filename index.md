@@ -2,122 +2,25 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# What is it?
 
-[Link to another page](./another-page.html).
+The Hackerspace Blueprint is a living document which explains how our community works. This document is the result of more than five years of testing and improving our do-ocracy to get the best out of people. It's a system with minimal overhead and minimal control, designed to **give power to the people who do stuff**.
 
-There should be whitespace between paragraphs.
+We've been using this system for more than five years, tweaking and improving it when we encounter issues. Interested? Click the buttons on the right to download the PDF and EPUB versions of this booklet!
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Who are you?
 
-# Header 1
+We are [Hackerspace.Gent](https://hackerspace.gent) a cozy [hackerspace](https://en.wikipedia.org/wiki/Hackerspace) in the beautiful city of [Ghent](https://visit.gent.be/en), Belgium.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Why did you make this?
 
-## Header 2
+We were on the brink of collapse because of internal conflict. Instead of giving up, we decided to hack the hackerspace itself; find a system where internal conflict actually gets solved. We did an number of workshops to figure out how to do this, we wrote everything down, and got to work. Five years later, the disorganized workshop notes turned into an actual booklet. We hope you can use this to solve issues in your organization.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+# Can I use this?
 
-### Header 3
+Yes please! The blueprint is licensed CC BY-NC-SA 4.0, so feel free to use it, learn from it and remix it. Let us know what you did with it! You can find [the source of the blueprint](https://github.com/0x20/hackerspace-blueprint) on Github.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+# More formats?
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+* Download [The Hackerspace Blueprint from Google Play Books](https://play.google.com/store/books/details/Merlijn_Sebrechts_The_Hackerspace_Blueprint?id=TnSSDwAAQBAJ)
+* Buy [the hackerspace blueprint from the Kindle store](https://www.amazon.com/Hackerspace-Blueprint-Empowering-people-awesome-ebook/dp/B07PP53RTR/)
