@@ -24,3 +24,4 @@ Yes! The blueprint is licensed CC BY-NC-SA 4.0, so feel free to use it, learn fr
 
 * Download [The Hackerspace Blueprint from Google Play Books](https://play.google.com/store/books/details/Merlijn_Sebrechts_The_Hackerspace_Blueprint?id=TnSSDwAAQBAJ)
 * Buy [The Hackerspace Blueprint from the Kindle store](https://www.amazon.com/Hackerspace-Blueprint-Empowering-people-awesome-ebook/dp/B07PP53RTR/)
+* [Fork us on Github![](https://hackerspace.app/github.png)](https://github.com/0x20/hackerspace-blueprint)
