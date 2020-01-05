@@ -10,13 +10,15 @@ xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
 >
- 
 <channel>
 <title>{{ site.podcast_title }}</title>
 <atom:link href="{{ site.url }}/feed/podcast" rel="self" type="application/rss+xml" />
 <link>{{ site.url }}</link>
 <description>{{ site.podcast_description }}</description>
+<copyright>{{ site.podcast_copyright }}</copyright>
+<creativeCommons:license>{{ site.podcast_cc_license_url }}</creativeCommons:license>
 <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
