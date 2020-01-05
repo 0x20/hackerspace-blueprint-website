@@ -6,7 +6,6 @@ tags:
 - tagone
 - tagtwo
 - tagthree
-permalink: /35/
 image: /assets/podcasts/hackerspace-design.jpg
 podcast_link: https://archive.org/download/hackerspace-design/all-noise-gate-louder.mp3
 podcast_file_size: 34.1 MB
