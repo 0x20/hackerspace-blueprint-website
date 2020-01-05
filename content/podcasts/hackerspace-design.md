@@ -1,3 +1,4 @@
+---
 title:  "Building Communities with Do-ocracy"
 date:   2019-12-28
 categories: podcast
@@ -11,3 +12,4 @@ podcast_link: https://archive.org/download/hackerspace-design/all-noise-gate-lou
 podcast_file_size: 34.1 MB
 podcast_duration: "43:26"
 podcast_length: 35725452
+---
