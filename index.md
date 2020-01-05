@@ -16,6 +16,10 @@ We are [Hackerspace.Gent](https://hackerspace.gent) a cozy [hackerspace](https:/
 
 We were on the brink of collapse because of internal conflict. Instead of giving up, we decided to hack the hackerspace itself; find a system where internal conflict actually gets solved. We did an number of workshops to figure out how to do this, we wrote everything down, and got to work. Five years later, the disorganized workshop notes turned into an actual booklet. We hope you can use this to solve issues in your organization.
 
+For more information and a quick overview of some lessons learned, you can watch this lightning talk.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zmph3AiWi5g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Can everyone use this?
 
 Yes! The blueprint is licensed CC BY-NC-SA 4.0, so feel free to use it, learn from it and remix it. Let us know what you did with it! You can find [the source of the blueprint](https://github.com/0x20/hackerspace-blueprint) on Github.
@@ -25,3 +29,9 @@ Yes! The blueprint is licensed CC BY-NC-SA 4.0, so feel free to use it, learn fr
 * Download [The Hackerspace Blueprint from Google Play Books](https://play.google.com/store/books/details/Merlijn_Sebrechts_The_Hackerspace_Blueprint?id=TnSSDwAAQBAJ)
 * Buy [The Hackerspace Blueprint from the Kindle store](https://www.amazon.com/Hackerspace-Blueprint-Empowering-people-awesome-ebook/dp/B07PP53RTR/)
 * [Fork us on Github![](https://hackerspace.app/github.png)](https://github.com/0x20/hackerspace-blueprint)
+
+# More information?
+
+The Hackerspace Design podcast gives some more context around the Hackerspace Blueprint and Do-ocracy in hackerspaces in general.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QTbQ9Y5-cPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
