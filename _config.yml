@@ -12,15 +12,15 @@ github:
 
 
 podcast_url: https//hackerspace.design/hackerspacedesign
-podcast_album_art: /assets/images/download-button.png
+podcast_album_art: /assets/podcasts/hackerspace-design.jpg
 podcast_title: Hackerspace Design
 podcast_owner: Merlijn Sebrechts
 podcast_email: merlijn.sebrechts@gmail.com
-podcast_category: Technology
-podcast_subcategory_one: Software How-To
-podcast_subcategory_two: Gadgets
+# Categories from https://help.apple.com/itc/podcasts_connect/#/itc9267a2f12
+podcast_category: Business
+podcast_subcategory_one: Non-Profit
 podcast_explicit: "no"
 podcast_author: Merlijn Sebrechts
-podcast_description: Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.
-podcast_summary: Joe Buhlig walks you through real life story and then breaks down the productivity tools and techniques used. It's a great way to learn how to implement the tips and tricks that you see across the web. Productivity stories from the trenches. What works and what to never try.
-podcast_subtitle: Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.
+podcast_description: Do-ocracy done well: lessons learned from building leaderless communities.
+podcast_summary: Do-ocracy done well: lessons learned from building leaderless communities.
+podcast_subtitle: Do-ocracy done well: lessons learned from building leaderless communities.
