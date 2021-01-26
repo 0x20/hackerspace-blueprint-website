@@ -35,3 +35,7 @@ Yes! The blueprint is licensed CC BY-NC-SA 4.0, so feel free to use it, learn fr
 The Hackerspace Design podcast gives some more context around the Hackerspace Blueprint and Do-ocracy in hackerspaces in general.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QTbQ9Y5-cPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Merlijn did a presentation at RC3 about how to solve conflict in a Do-ocracy and other leaderless communities.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gng6-nfITkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
